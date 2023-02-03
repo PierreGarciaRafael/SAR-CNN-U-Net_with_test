@@ -11,7 +11,7 @@ from Dataset import *
 from model import *
 from utils import *
 
-basedir = '/home/dalsasso/Desktop/navette_emanuele/projets/SARCNN/SARCNN_with_test'
+basedir = '.'
 datasetdir = '../../ENL'
 
 torch.manual_seed(1)
